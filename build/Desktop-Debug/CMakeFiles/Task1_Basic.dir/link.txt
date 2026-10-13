@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Task1_Basic.dir/Task1_Basic.cpp.o -o Task1_Basic 

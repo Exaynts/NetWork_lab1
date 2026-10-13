@@ -1,0 +1,6 @@
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/Task0_Train.dir
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/Task1_Basic.dir
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/Task2_Medium.dir
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/Task3_Advanced.dir
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/Jamushka/Projects/NetWorkProg/lab1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Task0_Train.dir/Task0_Train.cpp.o -o Task0_Train 

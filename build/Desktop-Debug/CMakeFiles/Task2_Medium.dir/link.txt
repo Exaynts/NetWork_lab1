@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Task2_Medium.dir/Task2_Medium.cpp.o -o Task2_Medium 

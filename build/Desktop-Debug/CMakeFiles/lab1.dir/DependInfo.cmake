@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/Jamushka/Projects/NetWorkProg/lab1/Task1_Basic.cpp" "CMakeFiles/lab1.dir/Task1_Basic.cpp.o" "gcc" "CMakeFiles/lab1.dir/Task1_Basic.cpp.o.d"
+  "/home/Jamushka/Projects/NetWorkProg/lab1/Task2_Medium.cpp" "CMakeFiles/lab1.dir/Task2_Medium.cpp.o" "gcc" "CMakeFiles/lab1.dir/Task2_Medium.cpp.o.d"
+  "/home/Jamushka/Projects/NetWorkProg/lab1/Task3_Advanced.cpp" "CMakeFiles/lab1.dir/Task3_Advanced.cpp.o" "gcc" "CMakeFiles/lab1.dir/Task3_Advanced.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
